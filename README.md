@@ -1,3 +1,3 @@
 # KaggleCompetitionSpamNotSpam
 
-This repository contains files for private Kaggle machine learning competition
+This repository contains files for a private Kaggle machine learning competition
